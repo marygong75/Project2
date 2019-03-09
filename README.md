@@ -6,22 +6,22 @@
 **Topic:** Comparison between Women and Men in working industry
 
 #### Bar Chart (Job Position)
-⁃	Job Position in top 23 tech companies
-⁃	Filter by Gender & Race
+- Job Position in top 23 tech companies
+- Filter by Gender & Race
 
 #### Bar Chart (Salary)
-⁃	Difference in Median Salary between early career and mid career
-⁃	% of women and men in the company
+- Difference in Median Salary between early career and mid career
+- % of women and men in the company
 
 #### Pie Chart
-⁃	% of men vs women in top 23 tech companies
-⁃	User interactive filters:
-	1. Company name
-	2. Gender
-	3. Race
+- % of men vs women in top 23 tech companies
+- User interactive filters:
+1. Company name
+2. Gender
+3. Race
 	
 #### Map
-⁃	Color States based on earnings between Women vs Men – Wage gap 
+- Color States based on earnings between Women vs Men – Wage gap 
 
 
 **Link to Data sets:**

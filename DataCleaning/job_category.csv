@@ -1,0 +1,1001 @@
+company,gender,job_category,count
+23andMe,male,Executives,0
+23andMe,male,Managers,1
+23andMe,male,Professionals,7
+23andMe,male,Technicians,0
+23andMe,male,"Sales workers",0
+23andMe,male,"Administrative support",0
+23andMe,male,"Craft workers",0
+23andMe,male,operatives,0
+23andMe,male,"laborers and helpers",0
+23andMe,male,"Service workers",0
+23andMe,female,Executives,0
+23andMe,female,Managers,1
+23andMe,female,Professionals,5
+23andMe,female,Technicians,0
+23andMe,female,"Sales workers",0
+23andMe,female,"Administrative support",5
+23andMe,female,"Craft workers",0
+23andMe,female,operatives,0
+23andMe,female,"laborers and helpers",0
+23andMe,female,"Service workers",0
+23andMe,male,Executives,9
+23andMe,male,Managers,30
+23andMe,male,Professionals,61
+23andMe,male,Technicians,0
+23andMe,male,"Sales workers",0
+23andMe,male,"Administrative support",2
+23andMe,male,"Craft workers",0
+23andMe,male,operatives,0
+23andMe,male,"laborers and helpers",0
+23andMe,male,"Service workers",0
+23andMe,male,Executives,0
+23andMe,male,Managers,0
+23andMe,male,Professionals,2
+23andMe,male,Technicians,0
+23andMe,male,"Sales workers",0
+23andMe,male,"Administrative support",0
+23andMe,male,"Craft workers",0
+23andMe,male,operatives,0
+23andMe,male,"laborers and helpers",0
+23andMe,male,"Service workers",0
+23andMe,male,Executives,0
+23andMe,male,Managers,0
+23andMe,male,Professionals,0
+23andMe,male,Technicians,0
+23andMe,male,"Sales workers",0
+23andMe,male,"Administrative support",0
+23andMe,male,"Craft workers",0
+23andMe,male,operatives,0
+23andMe,male,"laborers and helpers",0
+23andMe,male,"Service workers",0
+23andMe,male,Executives,0
+23andMe,male,Managers,5
+23andMe,male,Professionals,23
+23andMe,male,Technicians,0
+23andMe,male,"Sales workers",0
+23andMe,male,"Administrative support",3
+23andMe,male,"Craft workers",0
+23andMe,male,operatives,0
+23andMe,male,"laborers and helpers",0
+23andMe,male,"Service workers",0
+23andMe,male,Executives,0
+23andMe,male,Managers,0
+23andMe,male,Professionals,1
+23andMe,male,Technicians,0
+23andMe,male,"Sales workers",0
+23andMe,male,"Administrative support",0
+23andMe,male,"Craft workers",0
+23andMe,male,operatives,0
+23andMe,male,"laborers and helpers",0
+23andMe,male,"Service workers",0
+23andMe,male,Executives,0
+23andMe,male,Managers,0
+23andMe,male,Professionals,4
+23andMe,male,Technicians,0
+23andMe,male,"Sales workers",0
+23andMe,male,"Administrative support",0
+23andMe,male,"Craft workers",0
+23andMe,male,operatives,0
+23andMe,male,"laborers and helpers",0
+23andMe,male,"Service workers",0
+23andMe,female,Executives,7
+23andMe,female,Managers,18
+23andMe,female,Professionals,37
+23andMe,female,Technicians,0
+23andMe,female,"Sales workers",0
+23andMe,female,"Administrative support",22
+23andMe,female,"Craft workers",0
+23andMe,female,operatives,0
+23andMe,female,"laborers and helpers",0
+23andMe,female,"Service workers",0
+23andMe,female,Executives,0
+23andMe,female,Managers,0
+23andMe,female,Professionals,2
+23andMe,female,Technicians,0
+23andMe,female,"Sales workers",0
+23andMe,female,"Administrative support",1
+23andMe,female,"Craft workers",0
+23andMe,female,operatives,0
+23andMe,female,"laborers and helpers",0
+23andMe,female,"Service workers",0
+23andMe,female,Executives,0
+23andMe,female,Managers,1
+23andMe,female,Professionals,0
+23andMe,female,Technicians,0
+23andMe,female,"Sales workers",0
+23andMe,female,"Administrative support",0
+23andMe,female,"Craft workers",0
+23andMe,female,operatives,0
+23andMe,female,"laborers and helpers",0
+23andMe,female,"Service workers",0
+23andMe,female,Executives,1
+23andMe,female,Managers,6
+23andMe,female,Professionals,25
+23andMe,female,Technicians,0
+23andMe,female,"Sales workers",0
+23andMe,female,"Administrative support",7
+23andMe,female,"Craft workers",0
+23andMe,female,operatives,0
+23andMe,female,"laborers and helpers",0
+23andMe,female,"Service workers",0
+23andMe,female,Executives,0
+23andMe,female,Managers,0
+23andMe,female,Professionals,0
+23andMe,female,Technicians,0
+23andMe,female,"Sales workers",0
+23andMe,female,"Administrative support",1
+23andMe,female,"Craft workers",0
+23andMe,female,operatives,0
+23andMe,female,"laborers and helpers",0
+23andMe,female,"Service workers",0
+23andMe,female,Executives,0
+23andMe,female,Managers,3
+23andMe,female,Professionals,2
+23andMe,female,Technicians,0
+23andMe,female,"Sales workers",0
+23andMe,female,"Administrative support",5
+23andMe,female,"Craft workers",0
+23andMe,female,operatives,0
+23andMe,female,"laborers and helpers",0
+23andMe,female,"Service workers",0
+Adobe,male,Executives,3
+Adobe,male,Managers,51
+Adobe,male,Professionals,75
+Adobe,male,Technicians,0
+Adobe,male,"Sales workers",33
+Adobe,male,"Administrative support",8
+Adobe,male,"Craft workers",0
+Adobe,male,operatives,0
+Adobe,male,"laborers and helpers",0
+Adobe,male,"Service workers",0
+Adobe,female,Executives,0
+Adobe,female,Managers,50
+Adobe,female,Professionals,60
+Adobe,female,Technicians,0
+Adobe,female,"Sales workers",16
+Adobe,female,"Administrative support",38
+Adobe,female,"Craft workers",0
+Adobe,female,operatives,0
+Adobe,female,"laborers and helpers",0
+Adobe,female,"Service workers",0
+Adobe,male,Executives,56
+Adobe,male,Managers,1197
+Adobe,male,Professionals,1325
+Adobe,male,Technicians,0
+Adobe,male,"Sales workers",742
+Adobe,male,"Administrative support",96
+Adobe,male,"Craft workers",0
+Adobe,male,operatives,0
+Adobe,male,"laborers and helpers",0
+Adobe,male,"Service workers",0
+Adobe,male,Executives,0
+Adobe,male,Managers,26
+Adobe,male,Professionals,25
+Adobe,male,Technicians,0
+Adobe,male,"Sales workers",26
+Adobe,male,"Administrative support",3
+Adobe,male,"Craft workers",0
+Adobe,male,operatives,0
+Adobe,male,"laborers and helpers",0
+Adobe,male,"Service workers",0
+Adobe,male,Executives,1
+Adobe,male,Managers,5
+Adobe,male,Professionals,9
+Adobe,male,Technicians,0
+Adobe,male,"Sales workers",0
+Adobe,male,"Administrative support",3
+Adobe,male,"Craft workers",0
+Adobe,male,operatives,0
+Adobe,male,"laborers and helpers",0
+Adobe,male,"Service workers",0
+Adobe,male,Executives,15
+Adobe,male,Managers,310
+Adobe,male,Professionals,673
+Adobe,male,Technicians,0
+Adobe,male,"Sales workers",115
+Adobe,male,"Administrative support",8
+Adobe,male,"Craft workers",0
+Adobe,male,operatives,0
+Adobe,male,"laborers and helpers",0
+Adobe,male,"Service workers",0
+Adobe,male,Executives,0
+Adobe,male,Managers,3
+Adobe,male,Professionals,3
+Adobe,male,Technicians,0
+Adobe,male,"Sales workers",2
+Adobe,male,"Administrative support",0
+Adobe,male,"Craft workers",0
+Adobe,male,operatives,0
+Adobe,male,"laborers and helpers",0
+Adobe,male,"Service workers",0
+Adobe,male,Executives,0
+Adobe,male,Managers,6
+Adobe,male,Professionals,25
+Adobe,male,Technicians,0
+Adobe,male,"Sales workers",10
+Adobe,male,"Administrative support",5
+Adobe,male,"Craft workers",0
+Adobe,male,operatives,0
+Adobe,male,"laborers and helpers",0
+Adobe,male,"Service workers",0
+Adobe,female,Executives,15
+Adobe,female,Managers,534
+Adobe,female,Professionals,403
+Adobe,female,Technicians,0
+Adobe,female,"Sales workers",266
+Adobe,female,"Administrative support",119
+Adobe,female,"Craft workers",0
+Adobe,female,operatives,0
+Adobe,female,"laborers and helpers",0
+Adobe,female,"Service workers",0
+Adobe,female,Executives,0
+Adobe,female,Managers,9
+Adobe,female,Professionals,18
+Adobe,female,Technicians,0
+Adobe,female,"Sales workers",5
+Adobe,female,"Administrative support",5
+Adobe,female,"Craft workers",0
+Adobe,female,operatives,0
+Adobe,female,"laborers and helpers",0
+Adobe,female,"Service workers",0
+Adobe,female,Executives,0
+Adobe,female,Managers,4
+Adobe,female,Professionals,3
+Adobe,female,Technicians,0
+Adobe,female,"Sales workers",0
+Adobe,female,"Administrative support",0
+Adobe,female,"Craft workers",0
+Adobe,female,operatives,0
+Adobe,female,"laborers and helpers",0
+Adobe,female,"Service workers",0
+Adobe,female,Executives,3
+Adobe,female,Managers,244
+Adobe,female,Professionals,392
+Adobe,female,Technicians,0
+Adobe,female,"Sales workers",50
+Adobe,female,"Administrative support",31
+Adobe,female,"Craft workers",0
+Adobe,female,operatives,0
+Adobe,female,"laborers and helpers",0
+Adobe,female,"Service workers",0
+Adobe,female,Executives,0
+Adobe,female,Managers,2
+Adobe,female,Professionals,4
+Adobe,female,Technicians,0
+Adobe,female,"Sales workers",0
+Adobe,female,"Administrative support",0
+Adobe,female,"Craft workers",0
+Adobe,female,operatives,0
+Adobe,female,"laborers and helpers",0
+Adobe,female,"Service workers",0
+Adobe,female,Executives,0
+Adobe,female,Managers,7
+Adobe,female,Professionals,13
+Adobe,female,Technicians,0
+Adobe,female,"Sales workers",5
+Adobe,female,"Administrative support",7
+Adobe,female,"Craft workers",0
+Adobe,female,operatives,0
+Adobe,female,"laborers and helpers",0
+Adobe,female,"Service workers",0
+Airbnb,male,Executives,2
+Airbnb,male,Managers,9
+Airbnb,male,Professionals,26
+Airbnb,male,Technicians,1
+Airbnb,male,"Sales workers",0
+Airbnb,male,"Administrative support",15
+Airbnb,male,"Craft workers",0
+Airbnb,male,operatives,0
+Airbnb,male,"laborers and helpers",0
+Airbnb,male,"Service workers",3
+Airbnb,female,Executives,1
+Airbnb,female,Managers,8
+Airbnb,female,Professionals,33
+Airbnb,female,Technicians,0
+Airbnb,female,"Sales workers",0
+Airbnb,female,"Administrative support",24
+Airbnb,female,"Craft workers",0
+Airbnb,female,operatives,0
+Airbnb,female,"laborers and helpers",0
+Airbnb,female,"Service workers",2
+Airbnb,male,Executives,46
+Airbnb,male,Managers,103
+Airbnb,male,Professionals,352
+Airbnb,male,Technicians,1
+Airbnb,male,"Sales workers",0
+Airbnb,male,"Administrative support",91
+Airbnb,male,"Craft workers",0
+Airbnb,male,operatives,0
+Airbnb,male,"laborers and helpers",0
+Airbnb,male,"Service workers",14
+Airbnb,male,Executives,2
+Airbnb,male,Managers,6
+Airbnb,male,Professionals,15
+Airbnb,male,Technicians,0
+Airbnb,male,"Sales workers",0
+Airbnb,male,"Administrative support",6
+Airbnb,male,"Craft workers",0
+Airbnb,male,operatives,0
+Airbnb,male,"laborers and helpers",0
+Airbnb,male,"Service workers",2
+Airbnb,male,Executives,0
+Airbnb,male,Managers,0
+Airbnb,male,Professionals,3
+Airbnb,male,Technicians,0
+Airbnb,male,"Sales workers",0
+Airbnb,male,"Administrative support",1
+Airbnb,male,"Craft workers",0
+Airbnb,male,operatives,0
+Airbnb,male,"laborers and helpers",0
+Airbnb,male,"Service workers",2
+Airbnb,male,Executives,16
+Airbnb,male,Managers,38
+Airbnb,male,Professionals,279
+Airbnb,male,Technicians,1
+Airbnb,male,"Sales workers",0
+Airbnb,male,"Administrative support",18
+Airbnb,male,"Craft workers",0
+Airbnb,male,operatives,0
+Airbnb,male,"laborers and helpers",0
+Airbnb,male,"Service workers",6
+Airbnb,male,Executives,0
+Airbnb,male,Managers,0
+Airbnb,male,Professionals,1
+Airbnb,male,Technicians,0
+Airbnb,male,"Sales workers",0
+Airbnb,male,"Administrative support",1
+Airbnb,male,"Craft workers",0
+Airbnb,male,operatives,0
+Airbnb,male,"laborers and helpers",0
+Airbnb,male,"Service workers",0
+Airbnb,male,Executives,2
+Airbnb,male,Managers,9
+Airbnb,male,Professionals,14
+Airbnb,male,Technicians,0
+Airbnb,male,"Sales workers",0
+Airbnb,male,"Administrative support",7
+Airbnb,male,"Craft workers",0
+Airbnb,male,operatives,0
+Airbnb,male,"laborers and helpers",0
+Airbnb,male,"Service workers",3
+Airbnb,female,Executives,20
+Airbnb,female,Managers,91
+Airbnb,female,Professionals,214
+Airbnb,female,Technicians,3
+Airbnb,female,"Sales workers",0
+Airbnb,female,"Administrative support",138
+Airbnb,female,"Craft workers",0
+Airbnb,female,operatives,0
+Airbnb,female,"laborers and helpers",0
+Airbnb,female,"Service workers",12
+Airbnb,female,Executives,0
+Airbnb,female,Managers,3
+Airbnb,female,Professionals,16
+Airbnb,female,Technicians,0
+Airbnb,female,"Sales workers",0
+Airbnb,female,"Administrative support",6
+Airbnb,female,"Craft workers",0
+Airbnb,female,operatives,0
+Airbnb,female,"laborers and helpers",0
+Airbnb,female,"Service workers",0
+Airbnb,female,Executives,0
+Airbnb,female,Managers,0
+Airbnb,female,Professionals,1
+Airbnb,female,Technicians,0
+Airbnb,female,"Sales workers",0
+Airbnb,female,"Administrative support",0
+Airbnb,female,"Craft workers",0
+Airbnb,female,operatives,0
+Airbnb,female,"laborers and helpers",0
+Airbnb,female,"Service workers",0
+Airbnb,female,Executives,8
+Airbnb,female,Managers,25
+Airbnb,female,Professionals,171
+Airbnb,female,Technicians,0
+Airbnb,female,"Sales workers",0
+Airbnb,female,"Administrative support",18
+Airbnb,female,"Craft workers",0
+Airbnb,female,operatives,0
+Airbnb,female,"laborers and helpers",0
+Airbnb,female,"Service workers",3
+Airbnb,female,Executives,0
+Airbnb,female,Managers,0
+Airbnb,female,Professionals,0
+Airbnb,female,Technicians,0
+Airbnb,female,"Sales workers",0
+Airbnb,female,"Administrative support",1
+Airbnb,female,"Craft workers",0
+Airbnb,female,operatives,0
+Airbnb,female,"laborers and helpers",0
+Airbnb,female,"Service workers",1
+Airbnb,female,Executives,0
+Airbnb,female,Managers,3
+Airbnb,female,Professionals,10
+Airbnb,female,Technicians,0
+Airbnb,female,"Sales workers",0
+Airbnb,female,"Administrative support",9
+Airbnb,female,"Craft workers",0
+Airbnb,female,operatives,0
+Airbnb,female,"laborers and helpers",0
+Airbnb,female,"Service workers",1
+Apple,male,Executives,2
+Apple,male,Managers,411
+Apple,male,Professionals,799
+Apple,male,Technicians,1709
+Apple,male,"Sales workers",2562
+Apple,male,"Administrative support",672
+Apple,male,"Craft workers",13
+Apple,male,operatives,0
+Apple,male,"laborers and helpers",0
+Apple,male,"Service workers",132
+Apple,female,Executives,0
+Apple,female,Managers,149
+Apple,female,Professionals,382
+Apple,female,Technicians,617
+Apple,female,"Sales workers",1260
+Apple,female,"Administrative support",666
+Apple,female,"Craft workers",0
+Apple,female,operatives,0
+Apple,female,"laborers and helpers",0
+Apple,female,"Service workers",97
+Apple,male,Executives,73
+Apple,male,Managers,3903
+Apple,male,Professionals,9012
+Apple,male,Technicians,7646
+Apple,male,"Sales workers",8414
+Apple,male,"Administrative support",1948
+Apple,male,"Craft workers",57
+Apple,male,operatives,0
+Apple,male,"laborers and helpers",0
+Apple,male,"Service workers",68
+Apple,male,Executives,2
+Apple,male,Managers,172
+Apple,male,Professionals,273
+Apple,male,Technicians,1382
+Apple,male,"Sales workers",1937
+Apple,male,"Administrative support",324
+Apple,male,"Craft workers",2
+Apple,male,operatives,0
+Apple,male,"laborers and helpers",0
+Apple,male,"Service workers",11
+Apple,male,Executives,0
+Apple,male,Managers,12
+Apple,male,Professionals,34
+Apple,male,Technicians,68
+Apple,male,"Sales workers",107
+Apple,male,"Administrative support",25
+Apple,male,"Craft workers",0
+Apple,male,operatives,0
+Apple,male,"laborers and helpers",0
+Apple,male,"Service workers",4
+Apple,male,Executives,10
+Apple,male,Managers,1389
+Apple,male,Professionals,6972
+Apple,male,Technicians,725
+Apple,male,"Sales workers",1031
+Apple,male,"Administrative support",338
+Apple,male,"Craft workers",12
+Apple,male,operatives,0
+Apple,male,"laborers and helpers",0
+Apple,male,"Service workers",44
+Apple,male,Executives,0
+Apple,male,Managers,13
+Apple,male,Professionals,32
+Apple,male,Technicians,73
+Apple,male,"Sales workers",48
+Apple,male,"Administrative support",13
+Apple,male,"Craft workers",0
+Apple,male,operatives,0
+Apple,male,"laborers and helpers",0
+Apple,male,"Service workers",1
+Apple,male,Executives,0
+Apple,male,Managers,55
+Apple,male,Professionals,171
+Apple,male,Technicians,287
+Apple,male,"Sales workers",386
+Apple,male,"Administrative support",78
+Apple,male,"Craft workers",0
+Apple,male,operatives,0
+Apple,male,"laborers and helpers",0
+Apple,male,"Service workers",4
+Apple,female,Executives,15
+Apple,female,Managers,1441
+Apple,female,Professionals,2635
+Apple,female,Technicians,2696
+Apple,female,"Sales workers",3622
+Apple,female,"Administrative support",1774
+Apple,female,"Craft workers",0
+Apple,female,operatives,0
+Apple,female,"laborers and helpers",0
+Apple,female,"Service workers",24
+Apple,female,Executives,1
+Apple,female,Managers,116
+Apple,female,Professionals,127
+Apple,female,Technicians,1242
+Apple,female,"Sales workers",1043
+Apple,female,"Administrative support",423
+Apple,female,"Craft workers",0
+Apple,female,operatives,0
+Apple,female,"laborers and helpers",0
+Apple,female,"Service workers",12
+Apple,female,Executives,0
+Apple,female,Managers,6
+Apple,female,Professionals,13
+Apple,female,Technicians,23
+Apple,female,"Sales workers",51
+Apple,female,"Administrative support",17
+Apple,female,"Craft workers",0
+Apple,female,operatives,0
+Apple,female,"laborers and helpers",0
+Apple,female,"Service workers",2
+Apple,female,Executives,4
+Apple,female,Managers,500
+Apple,female,Professionals,2650
+Apple,female,Technicians,269
+Apple,female,"Sales workers",579
+Apple,female,"Administrative support",498
+Apple,female,"Craft workers",1
+Apple,female,operatives,0
+Apple,female,"laborers and helpers",0
+Apple,female,"Service workers",16
+Apple,female,Executives,0
+Apple,female,Managers,4
+Apple,female,Professionals,10
+Apple,female,Technicians,23
+Apple,female,"Sales workers",34
+Apple,female,"Administrative support",17
+Apple,female,"Craft workers",0
+Apple,female,operatives,0
+Apple,female,"laborers and helpers",0
+Apple,female,"Service workers",0
+Apple,female,Executives,0
+Apple,female,Managers,34
+Apple,female,Professionals,90
+Apple,female,Technicians,215
+Apple,female,"Sales workers",241
+Apple,female,"Administrative support",94
+Apple,female,"Craft workers",0
+Apple,female,operatives,0
+Apple,female,"laborers and helpers",0
+Apple,female,"Service workers",3
+Cisco,male,Executives,4
+Cisco,male,Managers,180
+Cisco,male,Professionals,898
+Cisco,male,Technicians,1
+Cisco,male,"Sales workers",187
+Cisco,male,"Administrative support",13
+Cisco,male,"Craft workers",0
+Cisco,male,operatives,6
+Cisco,male,"laborers and helpers",0
+Cisco,male,"Service workers",0
+Cisco,female,Executives,4
+Cisco,female,Managers,89
+Cisco,female,Professionals,352
+Cisco,female,Technicians,1
+Cisco,female,"Sales workers",72
+Cisco,female,"Administrative support",104
+Cisco,female,"Craft workers",0
+Cisco,female,operatives,2
+Cisco,female,"laborers and helpers",0
+Cisco,female,"Service workers",0
+Cisco,male,Executives,179
+Cisco,male,Managers,2768
+Cisco,male,Professionals,9764
+Cisco,male,Technicians,11
+Cisco,male,"Sales workers",2718
+Cisco,male,"Administrative support",57
+Cisco,male,"Craft workers",0
+Cisco,male,operatives,5
+Cisco,male,"laborers and helpers",0
+Cisco,male,"Service workers",0
+Cisco,male,Executives,4
+Cisco,male,Managers,85
+Cisco,male,Professionals,614
+Cisco,male,Technicians,1
+Cisco,male,"Sales workers",117
+Cisco,male,"Administrative support",3
+Cisco,male,"Craft workers",0
+Cisco,male,operatives,0
+Cisco,male,"laborers and helpers",0
+Cisco,male,"Service workers",0
+Cisco,male,Executives,0
+Cisco,male,Managers,6
+Cisco,male,Professionals,33
+Cisco,male,Technicians,0
+Cisco,male,"Sales workers",3
+Cisco,male,"Administrative support",2
+Cisco,male,"Craft workers",0
+Cisco,male,operatives,0
+Cisco,male,"laborers and helpers",0
+Cisco,male,"Service workers",0
+Cisco,male,Executives,53
+Cisco,male,Managers,1259
+Cisco,male,Professionals,8207
+Cisco,male,Technicians,8
+Cisco,male,"Sales workers",173
+Cisco,male,"Administrative support",20
+Cisco,male,"Craft workers",0
+Cisco,male,operatives,2
+Cisco,male,"laborers and helpers",0
+Cisco,male,"Service workers",0
+Cisco,male,Executives,3
+Cisco,male,Managers,13
+Cisco,male,Professionals,51
+Cisco,male,Technicians,0
+Cisco,male,"Sales workers",11
+Cisco,male,"Administrative support",0
+Cisco,male,"Craft workers",0
+Cisco,male,operatives,0
+Cisco,male,"laborers and helpers",0
+Cisco,male,"Service workers",0
+Cisco,male,Executives,1
+Cisco,male,Managers,19
+Cisco,male,Professionals,162
+Cisco,male,Technicians,0
+Cisco,male,"Sales workers",36
+Cisco,male,"Administrative support",4
+Cisco,male,"Craft workers",0
+Cisco,male,operatives,0
+Cisco,male,"laborers and helpers",0
+Cisco,male,"Service workers",0
+Cisco,female,Executives,44
+Cisco,female,Managers,778
+Cisco,female,Professionals,2867
+Cisco,female,Technicians,4
+Cisco,female,"Sales workers",866
+Cisco,female,"Administrative support",283
+Cisco,female,"Craft workers",0
+Cisco,female,operatives,0
+Cisco,female,"laborers and helpers",0
+Cisco,female,"Service workers",0
+Cisco,female,Executives,2
+Cisco,female,Managers,40
+Cisco,female,Professionals,348
+Cisco,female,Technicians,1
+Cisco,female,"Sales workers",34
+Cisco,female,"Administrative support",34
+Cisco,female,"Craft workers",0
+Cisco,female,operatives,0
+Cisco,female,"laborers and helpers",0
+Cisco,female,"Service workers",0
+Cisco,female,Executives,0
+Cisco,female,Managers,0
+Cisco,female,Professionals,7
+Cisco,female,Technicians,0
+Cisco,female,"Sales workers",3
+Cisco,female,"Administrative support",1
+Cisco,female,"Craft workers",0
+Cisco,female,operatives,0
+Cisco,female,"laborers and helpers",0
+Cisco,female,"Service workers",0
+Cisco,female,Executives,13
+Cisco,female,Managers,356
+Cisco,female,Professionals,3264
+Cisco,female,Technicians,5
+Cisco,female,"Sales workers",69
+Cisco,female,"Administrative support",62
+Cisco,female,"Craft workers",0
+Cisco,female,operatives,0
+Cisco,female,"laborers and helpers",0
+Cisco,female,"Service workers",0
+Cisco,female,Executives,0
+Cisco,female,Managers,1
+Cisco,female,Professionals,10
+Cisco,female,Technicians,0
+Cisco,female,"Sales workers",3
+Cisco,female,"Administrative support",0
+Cisco,female,"Craft workers",0
+Cisco,female,operatives,0
+Cisco,female,"laborers and helpers",0
+Cisco,female,"Service workers",0
+Cisco,female,Executives,0
+Cisco,female,Managers,15
+Cisco,female,Professionals,84
+Cisco,female,Technicians,0
+Cisco,female,"Sales workers",20
+Cisco,female,"Administrative support",7
+Cisco,female,"Craft workers",0
+Cisco,female,operatives,0
+Cisco,female,"laborers and helpers",0
+Cisco,female,"Service workers",0
+eBay,male,Executives,2
+eBay,male,Managers,33
+eBay,male,Professionals,46
+eBay,male,Technicians,1
+eBay,male,"Sales workers",1
+eBay,male,"Administrative support",71
+eBay,male,"Craft workers",0
+eBay,male,operatives,0
+eBay,male,"laborers and helpers",0
+eBay,male,"Service workers",0
+eBay,female,Executives,0
+eBay,female,Managers,20
+eBay,female,Professionals,42
+eBay,female,Technicians,0
+eBay,female,"Sales workers",0
+eBay,female,"Administrative support",67
+eBay,female,"Craft workers",0
+eBay,female,operatives,0
+eBay,female,"laborers and helpers",0
+eBay,female,"Service workers",0
+eBay,male,Executives,37
+eBay,male,Managers,584
+eBay,male,Professionals,937
+eBay,male,Technicians,0
+eBay,male,"Sales workers",27
+eBay,male,"Administrative support",603
+eBay,male,"Craft workers",0
+eBay,male,operatives,0
+eBay,male,"laborers and helpers",0
+eBay,male,"Service workers",0
+eBay,male,Executives,1
+eBay,male,Managers,15
+eBay,male,Professionals,20
+eBay,male,Technicians,0
+eBay,male,"Sales workers",1
+eBay,male,"Administrative support",39
+eBay,male,"Craft workers",0
+eBay,male,operatives,0
+eBay,male,"laborers and helpers",0
+eBay,male,"Service workers",0
+eBay,male,Executives,0
+eBay,male,Managers,2
+eBay,male,Professionals,7
+eBay,male,Technicians,0
+eBay,male,"Sales workers",0
+eBay,male,"Administrative support",3
+eBay,male,"Craft workers",0
+eBay,male,operatives,0
+eBay,male,"laborers and helpers",0
+eBay,male,"Service workers",0
+eBay,male,Executives,7
+eBay,male,Managers,315
+eBay,male,Professionals,1393
+eBay,male,Technicians,1
+eBay,male,"Sales workers",2
+eBay,male,"Administrative support",57
+eBay,male,"Craft workers",0
+eBay,male,operatives,0
+eBay,male,"laborers and helpers",0
+eBay,male,"Service workers",0
+eBay,male,Executives,0
+eBay,male,Managers,1
+eBay,male,Professionals,4
+eBay,male,Technicians,0
+eBay,male,"Sales workers",0
+eBay,male,"Administrative support",2
+eBay,male,"Craft workers",0
+eBay,male,operatives,0
+eBay,male,"laborers and helpers",0
+eBay,male,"Service workers",0
+eBay,male,Executives,1
+eBay,male,Managers,7
+eBay,male,Professionals,11
+eBay,male,Technicians,0
+eBay,male,"Sales workers",0
+eBay,male,"Administrative support",7
+eBay,male,"Craft workers",0
+eBay,male,operatives,0
+eBay,male,"laborers and helpers",0
+eBay,male,"Service workers",0
+eBay,female,Executives,17
+eBay,female,Managers,363
+eBay,female,Professionals,351
+eBay,female,Technicians,0
+eBay,female,"Sales workers",7
+eBay,female,"Administrative support",560
+eBay,female,"Craft workers",0
+eBay,female,operatives,0
+eBay,female,"laborers and helpers",0
+eBay,female,"Service workers",0
+eBay,female,Executives,1
+eBay,female,Managers,16
+eBay,female,Professionals,8
+eBay,female,Technicians,0
+eBay,female,"Sales workers",0
+eBay,female,"Administrative support",43
+eBay,female,"Craft workers",0
+eBay,female,operatives,0
+eBay,female,"laborers and helpers",0
+eBay,female,"Service workers",0
+eBay,female,Executives,0
+eBay,female,Managers,2
+eBay,female,Professionals,5
+eBay,female,Technicians,0
+eBay,female,"Sales workers",0
+eBay,female,"Administrative support",10
+eBay,female,"Craft workers",0
+eBay,female,operatives,0
+eBay,female,"laborers and helpers",0
+eBay,female,"Service workers",0
+eBay,female,Executives,4
+eBay,female,Managers,187
+eBay,female,Professionals,591
+eBay,female,Technicians,0
+eBay,female,"Sales workers",3
+eBay,female,"Administrative support",44
+eBay,female,"Craft workers",0
+eBay,female,operatives,0
+eBay,female,"laborers and helpers",0
+eBay,female,"Service workers",0
+eBay,female,Executives,0
+eBay,female,Managers,0
+eBay,female,Professionals,0
+eBay,female,Technicians,0
+eBay,female,"Sales workers",0
+eBay,female,"Administrative support",6
+eBay,female,"Craft workers",0
+eBay,female,operatives,0
+eBay,female,"laborers and helpers",0
+eBay,female,"Service workers",0
+eBay,female,Executives,0
+eBay,female,Managers,9
+eBay,female,Professionals,7
+eBay,female,Technicians,0
+eBay,female,"Sales workers",0
+eBay,female,"Administrative support",10
+eBay,female,"Craft workers",0
+eBay,female,operatives,0
+eBay,female,"laborers and helpers",0
+eBay,female,"Service workers",0
+Facebook,male,Executives,9
+Facebook,male,Managers,40
+Facebook,male,Professionals,209
+Facebook,male,Technicians,8
+Facebook,male,"Sales workers",18
+Facebook,male,"Administrative support",1
+Facebook,male,"Craft workers",1
+Facebook,male,operatives,0
+Facebook,male,"laborers and helpers",0
+Facebook,male,"Service workers",5
+Facebook,female,Executives,7
+Facebook,female,Managers,19
+Facebook,female,Professionals,133
+Facebook,female,Technicians,0
+Facebook,female,"Sales workers",18
+Facebook,female,"Administrative support",31
+Facebook,female,"Craft workers",0
+Facebook,female,operatives,0
+Facebook,female,"laborers and helpers",0
+Facebook,female,"Service workers",4
+Facebook,male,Executives,254
+Facebook,male,Managers,694
+Facebook,male,Professionals,2830
+Facebook,male,Technicians,95
+Facebook,male,"Sales workers",162
+Facebook,male,"Administrative support",9
+Facebook,male,"Craft workers",41
+Facebook,male,operatives,0
+Facebook,male,"laborers and helpers",0
+Facebook,male,"Service workers",32
+Facebook,male,Executives,13
+Facebook,male,Managers,18
+Facebook,male,Professionals,101
+Facebook,male,Technicians,4
+Facebook,male,"Sales workers",8
+Facebook,male,"Administrative support",1
+Facebook,male,"Craft workers",4
+Facebook,male,operatives,0
+Facebook,male,"laborers and helpers",0
+Facebook,male,"Service workers",3
+Facebook,male,Executives,1
+Facebook,male,Managers,4
+Facebook,male,Professionals,9
+Facebook,male,Technicians,0
+Facebook,male,"Sales workers",0
+Facebook,male,"Administrative support",0
+Facebook,male,"Craft workers",0
+Facebook,male,operatives,0
+Facebook,male,"laborers and helpers",0
+Facebook,male,"Service workers",1
+Facebook,male,Executives,74
+Facebook,male,Managers,323
+Facebook,male,Professionals,2440
+Facebook,male,Technicians,18
+Facebook,male,"Sales workers",36
+Facebook,male,"Administrative support",1
+Facebook,male,"Craft workers",2
+Facebook,male,operatives,0
+Facebook,male,"laborers and helpers",0
+Facebook,male,"Service workers",13
+Facebook,male,Executives,1
+Facebook,male,Managers,0
+Facebook,male,Professionals,5
+Facebook,male,Technicians,1
+Facebook,male,"Sales workers",0
+Facebook,male,"Administrative support",0
+Facebook,male,"Craft workers",0
+Facebook,male,operatives,0
+Facebook,male,"laborers and helpers",0
+Facebook,male,"Service workers",0
+Facebook,male,Executives,5
+Facebook,male,Managers,37
+Facebook,male,Professionals,135
+Facebook,male,Technicians,3
+Facebook,male,"Sales workers",4
+Facebook,male,"Administrative support",1
+Facebook,male,"Craft workers",1
+Facebook,male,operatives,0
+Facebook,male,"laborers and helpers",0
+Facebook,male,"Service workers",1
+Facebook,female,Executives,94
+Facebook,female,Managers,291
+Facebook,female,Professionals,983
+Facebook,female,Technicians,14
+Facebook,female,"Sales workers",155
+Facebook,female,"Administrative support",150
+Facebook,female,"Craft workers",4
+Facebook,female,operatives,0
+Facebook,female,"laborers and helpers",0
+Facebook,female,"Service workers",11
+Facebook,female,Executives,4
+Facebook,female,Managers,11
+Facebook,female,Professionals,70
+Facebook,female,Technicians,0
+Facebook,female,"Sales workers",9
+Facebook,female,"Administrative support",13
+Facebook,female,"Craft workers",0
+Facebook,female,operatives,0
+Facebook,female,"laborers and helpers",0
+Facebook,female,"Service workers",0
+Facebook,female,Executives,0
+Facebook,female,Managers,3
+Facebook,female,Professionals,7
+Facebook,female,Technicians,0
+Facebook,female,"Sales workers",1
+Facebook,female,"Administrative support",5
+Facebook,female,"Craft workers",0
+Facebook,female,operatives,0
+Facebook,female,"laborers and helpers",0
+Facebook,female,"Service workers",1
+Facebook,female,Executives,30
+Facebook,female,Managers,157
+Facebook,female,Professionals,1112
+Facebook,female,Technicians,3
+Facebook,female,"Sales workers",36
+Facebook,female,"Administrative support",55
+Facebook,female,"Craft workers",0
+Facebook,female,operatives,0
+Facebook,female,"laborers and helpers",0
+Facebook,female,"Service workers",7
+Facebook,female,Executives,0
+Facebook,female,Managers,1
+Facebook,female,Professionals,7
+Facebook,female,Technicians,0
+Facebook,female,"Sales workers",1
+Facebook,female,"Administrative support",2
+Facebook,female,"Craft workers",0
+Facebook,female,operatives,0
+Facebook,female,"laborers and helpers",0
+Facebook,female,"Service workers",0
+Facebook,female,Executives,4
+Facebook,female,Managers,17
+Facebook,female,Professionals,70
+Facebook,female,Technicians,1
+Facebook,female,"Sales workers",5
+Facebook,female,"Administrative support",19
+Facebook,female,"Craft workers",0
+Facebook,female,operatives,0
+Facebook,female,"laborers and helpers",0
+Facebook,female,"Service workers",0
+Google,male,Executives,0
+Google,male,Managers,340
+Google,male,Professionals,1107
+Google,male,Technicians,29
+Google,male,"Sales workers",81
+Google,male,"Administrative support",25
+Google,male,"Craft workers",0
+Google,male,operatives,0
+Google,male,"laborers and helpers",0
+Google,male,"Service workers",52
+Google,female,Executives,0
+Google,female,Managers,197
+Google,female,Professionals,376
+Google,female,Technicians,7
+Google,female,"Sales workers",106
+Google,female,"Administrative support",59
+Google,female,"Craft workers",0
+Google,female,operatives,0
+Google,female,"laborers and helpers",0
+Google,female,"Service workers",31

@@ -2,39 +2,50 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Project</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Gender in Tech Field</title>
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript">
+        function initViz() {
+            var containerDiv = document.getElementById("vizContainer"),
+                url = "https://public.tableau.com/views/Book1_15530419462600/Sheet1?:embed=y&:display_count=yes&publish=yes",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
 
- <script src="https://cdn.zingchart.com/zingchart.min.js"></script>
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <script src="https://cdn.zingchart.com/zingchart.min.js"></script>
 
 </head>
 
-<body>
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 jumbotron text-center">
-        <h1>Visualizing The Tech Industry's Workforce Diversity</h1>
-        <p>Use the interactive charts below to explore the dataset</p>
-      </div>
-    </div>
-    <div class="row">
-        <div class="well col-md-4">
-          <h5>SELECT Company:</h5>
-          <select id="selDataset" onchange="optionChanged(this.value)"></select>
-          <div id="pie"></div>
+<body onload="initViz();">
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 jumbotron text-center">
+                <h1>Visualizing The Tech Industry's Workforce Diversity</h1>
+                <p>Use the interactive charts below to explore the dataset</p>
+            </div>
         </div>
-        
 
-  <!-- <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script> -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <!-- <script src="{{ url_for('static', filename='../static/js/app2.js') }}"></script>
-  <script src="{{ url_for('static', filename='../static/js/app.js') }}"></script> -->
-  <script type="text/javascript" src="../static/js/app2.js"></script>
-</body>
+
+
+            <!-- <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script> -->
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+            <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+            <!-- <script src="{{ url_for('static', filename='../static/js/app2.js') }}"></script>
+      <script src="{{ url_for('static', filename='../static/js/app.js') }}"></script> -->
+            <script type="text/javascript" src="../static/js/app2.js"></script>
+<div id="vizContainer" style="width:800px; height:700px;"></div>
+    </body>
 
 </html>
